@@ -3,3 +3,4 @@
 - Sleep
 - Gym
 - Code
+- Coffee
